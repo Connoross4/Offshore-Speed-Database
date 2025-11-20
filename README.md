@@ -1,4 +1,5 @@
 # Offshore Speed Database
+<img width="1021" height="614" alt="Screenshot 2025-11-19 at 9 14 39 PM" src="https://github.com/user-attachments/assets/5caa23bf-7cd8-4f15-ae29-0f5c0cff8e12" />
 
 The Offshore Speed Database is a comprehensive relational database system designed for a fictional marine supply and service business. It centralizes all key operational data, supporting essential business functions such as sales tracking, inventory management, customer service, and purchasing. This project is ideal for portfolio demonstration, ERD modeling, or as a foundation for production systems in marine retail or service shops.
 
